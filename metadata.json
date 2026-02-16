@@ -1,0 +1,7 @@
+{
+  "name": "POD Audit Pro",
+  "description": "An advanced transport Proof of Delivery (POD) audit management system with AI-driven document analysis and real-time shipment tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
